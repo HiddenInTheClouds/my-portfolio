@@ -16,6 +16,8 @@ I also created a contact me section with my email that is functional.
 
 Click on the URL for the GitHub repo to see the application.
 
+https://hiddenintheclouds.github.io/my-portfolio/
+
 ## Credits
 
 I collaborated with Jeff Parker and Tudor Tocan for this project. I also used https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/#theprojectfolderstructure website to help with direction for this project.
