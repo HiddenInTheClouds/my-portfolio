@@ -10,6 +10,8 @@ I learned that creating containers and adding CSS to these containers can be dif
 
 I created nav bar links that will take you to different sections of the website. I also linked the images to take you to the deployed applications that I have created/worked on.
 
+I also created a contact me section with my email that is functional.
+
 ## Installation
 
 Click on the URL for the GitHub repo to see the application.
