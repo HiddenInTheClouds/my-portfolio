@@ -1,9 +1,10 @@
+/* Universal Selectors */
 * {
   box-sizing: border-box;
   margin: 0;
   scroll-behavior: smooth;
 }
-
+/* Element Selectors (begin with the element) */
 body {
   background-color: cyan;
 }
@@ -39,7 +40,7 @@ nav ul li {
   list-style-type: none;
   font-size: 105%;
 }
-
+/* Class Selectors (begin with period) */
 .hero {
   display: flex;
   align-items: center;
@@ -77,14 +78,11 @@ h4 {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  /* height: 20vh; */
   width: 90vw;
   flex-wrap: wrap;
-  /* border: 1px solid red; */
 }
 
 .about-me-container h2 {
-  /* border: 1px solid red; */
   width: 25%;
   border-right: solid black;
   border-width: 4px;
@@ -138,16 +136,12 @@ h4 {
   width: auto;
 }
 
-.project-img2:hover {
-  /* cursor: help; */
-}
-
 .testing {
   color: red;
   background-color: blue;
 }
 
-/* media queries */
+/* Media Queries */
 @media (max-width: 1000px) {
   img {
     max-width: 95vw;
